@@ -1,3 +1,3 @@
-thanos matar tot univers
-doctordoom magia
-galactus nose qui es
+thanos: matar tot univers
+doctordoom: magia
+galactus: es gigante
