@@ -1,1 +1,1 @@
-doctordoom vol matar a ironman a pineda de mar.
+doctordoom vol matar a ironman a pineda de mar. al final es posen d'acord per juntar-se i destruir pineda.
