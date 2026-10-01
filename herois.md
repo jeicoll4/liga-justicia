@@ -1,5 +1,5 @@
-batman:
-spiderman: 
-ironman:
-hulk: 
-antman:
+batman: bat
+spiderman: telaranyes
+ironman: volar 
+hulk: verd
+antman: formiga 
