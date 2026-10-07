@@ -1,5 +1,5 @@
 batman: bat
 spiderman: telaranyes
 ironman: volar 
-hulk: verd
-antman: formiga 
+hulk: ultraforça
+antman: tamany formiga 
